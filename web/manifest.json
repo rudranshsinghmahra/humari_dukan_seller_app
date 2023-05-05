@@ -1,0 +1,35 @@
+{
+    "name": "humari_dukan_seller_app",
+    "short_name": "humari_dukan_seller_app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Humari Dukan Seller App is a mobile application that helps seller manage his/her online store on the Humari Dukan platform. The app provides a user-friendly interface for the seller to manage their products, orders, and inventory. Seller can add new products, update existing ones, track order status, and manage his/her store's inventory in real-time",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
